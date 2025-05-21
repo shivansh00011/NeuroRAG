@@ -36,7 +36,7 @@ async def root():
 
 # Configure Gemini
 try:
-    api_key = "AIzaSyA1WLutHTzxRj-pqYLdVSN4E2WgoKf__L0"
+    api_key = "YOUR_GEMINI_API_KEY"
     if not api_key:
         print("Warning: GEMINI_API_KEY environment variable not set")
     genai.configure(
