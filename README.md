@@ -138,23 +138,3 @@ Contributions are welcome — please follow these steps:
 
 Please read the [CONTRIBUTING.md](https://github.com/shivansh00011/NeuroRAG/blob/main/CONTRIBUTING.md) and [CODE_OF_CONDUCT.md](https://github.com/shivansh00011/NeuroRAG/blob/main/CODE_OF_CONDUCT.md) (if present) for project-specific guidelines.
 
-License
-This project is licensed under the terms in the [LICENSE](https://github.com/shivansh00011/NeuroRAG/blob/main/LICENSE) file.
-
-Citation
-If you use NeuroRAG in published work, please cite this repository:
-```
-@misc{NeuroRAG2026,
-  author = {Your Name or Organization},
-  title = {NeuroRAG: Neural Retrieval-Augmented Generation},
-  year = {2026},
-  howpublished = {\url{https://github.com/shivansh00011/NeuroRAG}}
-}
-```
-
-Acknowledgments
-- Inspired by retrieval-augmented generation literature and open-source projects in the RAG/semantic retrieval space.
-- Thank you to contributors and maintainers.
-
-Contact
-For questions or help, open an issue on GitHub: [Issues](https://github.com/shivansh00011/NeuroRAG/issues) or contact the maintainer(s) listed in the repository.
